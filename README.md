@@ -1,2 +1,2 @@
-# HW-Wirefram
+# HW-Wireframe
 Wireframe layout assignment
